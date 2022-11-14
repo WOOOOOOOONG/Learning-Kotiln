@@ -28,5 +28,4 @@ public class Lec02Main {
     }
     return str.startsWith("A");
   }
-
 }
